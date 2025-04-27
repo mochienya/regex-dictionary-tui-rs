@@ -1,0 +1,1 @@
+words_alpha.txt was taken from [this repo](https://github.com/dwyl/english-words)
